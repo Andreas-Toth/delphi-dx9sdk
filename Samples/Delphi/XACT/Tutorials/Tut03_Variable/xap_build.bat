@@ -1,0 +1,1 @@
+xactbld /win32 "Tut03_Variable.xap"
